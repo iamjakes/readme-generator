@@ -35,4 +35,4 @@ contact jake
 [Go to your Github!](https://github.com/iamjakes)
 
 ## Email
-[Message me!](jsnyder7207@icloud.co,)
+[Message me!](jsnyder7207@icloud.com)
